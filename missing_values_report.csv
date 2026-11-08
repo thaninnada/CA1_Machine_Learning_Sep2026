@@ -1,9 +1,0 @@
-﻿Source_File,Rows,Columns,Missing_SEQN,Missing_Cells,Missing_Cell_Percentage(%)
-DEMO_L.csv,11933,30,0,108048,31.22
-DPQ_L.csv,6337,11,0,9591,15.13
-MCQ_L.csv,11744,35,0,252432,63.22
-INQ_L.csv,11933,5,0,12161,25.48
-PAQ_L.csv,8153,8,0,6276,11.0
-SLQ_L.csv,8501,7,0,227,0.45
-ALQ_L.csv,6337,9,0,20155,39.76
-BMX_L.csv,8860,3,0,1059,5.98
